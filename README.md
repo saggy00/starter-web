@@ -12,6 +12,7 @@ We have the purpose here
 How to deploy
 
 ## How to Configure
+RTFM
 
 ### Copyright
 Do not mess with the copy rights
