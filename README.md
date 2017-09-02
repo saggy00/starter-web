@@ -13,3 +13,5 @@ How to deploy
 
 ## How to Configure
 
+### Copyright
+Do not mess with the copy rights
